@@ -1,0 +1,9 @@
+[submodule "federatedLin"]
+	path = federatedLin
+	url = git@github.com:swiergarst/federatedLin.git
+[submodule "federatedNN"]
+	path = federatedNN
+	url = git@github.com:swiergarst/federatedNN.git
+[submodule "federatedDT"]
+	path = federatedDT
+	url = git@github.com:swiergarst/federatedDT.git
